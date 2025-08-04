@@ -11,7 +11,7 @@
   <img src="assets/amigo-secreto-lookandfeel.png" alt="Vistazo a la pagina de amigo secreto" width="400">
 </p>
 
-\ 🛠️ Funcionalidades 
+<h3>⚒️ Funcionalidades </h3>
 
 <li>Ingresar nombres a la lista de amigos</li>
 <li>La página chequea que el nombre no se repita ni este en blanco</li>
@@ -19,3 +19,14 @@
 <li>Se realiza un sorteo random entre los nombres ingresados</li>
 <li>También se chequea que la lista no este vacia antes de sortear</li>
 <li>Se muestra el resultado del sorteo</li>
+
+<h3> ⚙️✏️ Lenguajes y herramientas utilizadas </h3>
+
+<li>JavaSccript</li>
+<li>HTML y CSS</li>
+<li>Shields.io (https://shields.io/)</li>
+<li>Mozilla mdn (https://developer.mozilla.org/en-US/)</li>
+<li>Alura cursos y artículos (https://www.aluracursos.com/)</li>
+
+
+
