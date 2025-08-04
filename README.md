@@ -31,11 +31,12 @@
 <h3> ✅ Cómo acceder a la web</h3>
 
 <p>Ingresa al link y empieza a sortear a tus amigos ⬇️</p>
-<p></p>
+<p>https://floronuska.github.io/challenge-amigo-secreto-FO/</p>
 
 <h3>✏️ Autores </h3>
 
 <p>Florencia Onuska</p>
+<p>https://www.linkedin.com/in/florencia-onuska/</p>
 
 
 
