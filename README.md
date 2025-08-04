@@ -20,13 +20,23 @@
 <li>También se chequea que la lista no este vacia antes de sortear</li>
 <li>Se muestra el resultado del sorteo</li>
 
-<h3> ⚙️✏️ Lenguajes y herramientas utilizadas </h3>
+<h3> ⚙️ Lenguajes y herramientas utilizadas </h3>
 
 <li>JavaSccript</li>
 <li>HTML y CSS</li>
 <li>Shields.io (https://shields.io/)</li>
 <li>Mozilla mdn (https://developer.mozilla.org/en-US/)</li>
 <li>Alura cursos y artículos (https://www.aluracursos.com/)</li>
+
+<h3> ✅ Cómo acceder a la web</h3>
+
+<p>Ingresa al link y empieza a sortear a tus amigos ⬇️</p>
+<p></p>
+
+<h3>✏️ Autores </h3>
+
+<p>Florencia Onuska</p>
+
 
 
 
