@@ -1,21 +1,22 @@
+//crear un array para almacenar la lista de amigos
 let amigos = [];
 
-
+// crear una funcion para agregar amigos a la lista, si el input esta vacio alertar con un mensaje y si esta lleno, agregar nombre al array
+// luego de agregado limpiar el input
 function agregarAmigo() {
-    let nuevoAmigo = document.querySelector('#amigo').value;
-    if (nuevoAmigo == '') {
+    let nuevoAmigo = document.getElementById("amigo");
+    let nombre = nuevoAmigo.value.trim();
+
+    if (nombre === '') {
         alert('Por favor ingrese un nombre');
+        return;
     } else {
-        amigos.push(nuevoAmigo);
+        amigos.push(nombre);
         console.log(amigos)
-        return amigos;
     }
-    limpiarCaja();
+    nuevoAmigo.value = "";
 }
 
-function limpiarCaja() {
-    let valorCAja = document.querySelector('#amigo').value = '';
-}
 
 function recorrerAmigos() {
     let listaDeAmigos = document.getElementById("listaAmigos").value;
